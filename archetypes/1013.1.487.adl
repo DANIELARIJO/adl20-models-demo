@@ -1,0 +1,1 @@
+Transient I/O failure: Communication error with server: Failed to receive reply for service 'server.ping' after 2 attempt(s) - successfully sent 2 time(s). The server and/or port may be incorrect, or the maximum number of network connections has been reached, or the server may have a problem - the connection may also have been closed unexpectedly.
